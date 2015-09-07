@@ -5,5 +5,5 @@ trombone: o3 e8 f g a b
 
 trumpet:  a b > %last-note c4.~2
 trombone: > c d e4.
-tube: @midpoint o2 c4.~2
+tuba: @midpoint o4 c4.~2
 tuba: @last-note o2 c4.~2
