@@ -1,1 +1,9 @@
 bassoon: o2 d8 e (quant 30) f+ g (quant 99) a2
+
+trumpet:  (tempo! 200) o4 c8 d e %midpoint f g
+trombone: o3 e8 f g a b
+
+trumpet:  a b > %last-note c4.~2
+trombone: > c d e4.
+tube: @midpoint o2 c4.~2
+tuba: @last-note o2 c4.~2
